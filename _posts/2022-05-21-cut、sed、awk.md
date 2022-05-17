@@ -1,3 +1,8 @@
+---
+title: cut、sed、awk
+tags: TeXt
+---
+
 # cut、sed、awk
 
 ## 1、cut
