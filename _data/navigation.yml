@@ -1,29 +1,29 @@
 header:
-    - titles:
+  - titles:
       # @start locale config
       en      : &EN       About
       zh-Hans : &ZH_HANS  总览
       zh      : *ZH_HANS
       # @end locale config
     url: /overview.html
-   
-   - titles:
+
+  - titles:
       # @start locale config
       en      : &EN       Archive
       zh-Hans : &ZH_HANS  归档
       zh      : *ZH_HANS
       # @end locale config
     url: /archive.html
-   
-   - titles:
+
+  - titles:
       # @start locale config
       en      : &EN       GitHub
       zh-Hans : &ZH_HANS  GitHub
       zh      : *ZH_HANS
       # @end locale config
     url: https://github.com/fivech
-   
-   - titles:
+
+  - titles:
       # @start locale config
       en      : &EN       About
       zh-Hans : &ZH_HANS  关于
