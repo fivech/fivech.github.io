@@ -1,2 +1,2 @@
 - 博客生成器：[jekyll](https://www.jekyll.com.cn/)
-- 模板主题：[TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)
+- 模板主题  ：[TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)
