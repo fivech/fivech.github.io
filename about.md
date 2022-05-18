@@ -54,7 +54,7 @@ key: page-about
 
 > 笔记
 - [bash中常见符号](https://fivech.github.io/2021/05/20/bash%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%AC%A6%E5%8F%B7.html)
-- [cut、sed、awk](https://fivech.github.io/2021/05/21/cut-sed-awk.html)
+- [cut、sed、awk](./_posts/2021-05-21-cut、sed、awk.md)
 
 ## docker
 
