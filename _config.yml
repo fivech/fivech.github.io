@@ -187,8 +187,6 @@ exclude:
   - HOW_TO_RELEASE.md
   - Gemfile
   - Gemfile.lock
-  - README-*.md 
-  - README.md
   - LICENSE
   - gulpfile.js
   - jekyll-text-theme.gemspec
