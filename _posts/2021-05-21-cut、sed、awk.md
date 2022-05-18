@@ -1,6 +1,6 @@
 ---
 title: cut、sed、awk
-tags: TeXt
+tags: linux bash
 ---
 
 # cut、sed、awk
