@@ -23,3 +23,11 @@ header:
       # @end locale config
     url: https://github.com/fivech
   
+  header:
+    - titles:
+      # @start locale config
+      en      : &EN       About
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      # @end locale config
+    url: /about.html
