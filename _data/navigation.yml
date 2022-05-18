@@ -1,4 +1,12 @@
 header:
+    - titles:
+      # @start locale config
+      en      : &EN       About
+      zh-Hans : &ZH_HANS  总览
+      zh      : *ZH_HANS
+      # @end locale config
+    url: /about.html
+    
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -7,13 +15,6 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      # @end locale config
-    url: /readme.html
   - titles:
       # @start locale config
       en      : &EN       GitHub
