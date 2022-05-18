@@ -13,7 +13,7 @@ header:
       zh-Hans : &ZH_HANS  关于
       zh      : *ZH_HANS
       # @end locale config
-    url: /readme.md
+    url: /readme.html
   - titles:
       # @start locale config
       en      : &EN       GitHub
