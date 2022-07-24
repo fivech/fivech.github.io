@@ -38,7 +38,8 @@ key: page-about
 > 笔记
 - [bash中常见符号](./_posts/2021-05-20-bash中常见符号.md)
 - [cut、sed、awk](./_posts/2021-05-21-cut、sed、awk.md)
-
+- [bash常见用法](./_posts/2022-07-21-bash常见用法.md)
+- 
 ## docker
 
 ## k8s、rancher
