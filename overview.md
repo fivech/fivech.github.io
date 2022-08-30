@@ -41,8 +41,17 @@ key: page-about
 - [bash常见用法](./_posts/2022-07-21-bash常见用法.md)
 
 ## docker
+> 教程/书籍
+- [docker入门](https://www.runoob.com/docker/docker-tutorial.html)
 
 ## k8s、rancher
+> 教程/书籍
+- [rancher](https://docs.rancher.cn/docs/rancher2.5/quick-start-guide/_index/)
+- [k8s](https://kuboard.cn/learning/)
+
+## gitlab
+> 笔记
+- [CI/CD](./_posts/2022-08-30-CI and CD.md)
 
 ## rabbitmq
 
