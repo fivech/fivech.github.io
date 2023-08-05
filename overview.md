@@ -25,7 +25,6 @@ key: page-about
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/ch1-basic/ch1-01-genesis.html)
 - [GO语音原本](https://golang.design/under-the-hood/zh-cn/part1basic/)
 - [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)
-
 > 笔记
 - 
 
