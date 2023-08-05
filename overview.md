@@ -19,12 +19,15 @@ key: page-about
 ## golang
 
 > 教程/书籍
-- [标准库](https://studygolang.com/pkgdoc)
-- [GoFrame](https://goframe.org/display/gf)
-- [Gin](https://www.topgoer.com/gin%E6%A1%86%E6%9E%B6/%E7%AE%80%E4%BB%8B.html)
-- [xorm](http://xorm.topgoer.com/)
+- [标准库](https://studygolang.com/pkgdoc)、[xorm](http://xorm.topgoer.com/)
+- [GoFrame](https://goframe.org/display/gf)、[Gin](https://www.topgoer.com/gin%E6%A1%86%E6%9E%B6/%E7%AE%80%E4%BB%8B.html)
+- [Go语言起源](https://docs.hacknode.org/gopl-zh/ch0/ch0-01.html)
+- [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/ch1-basic/ch1-01-genesis.html)
+- [GO语音原本](https://golang.design/under-the-hood/zh-cn/part1basic/)
+- [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)
 
 > 笔记
+- 
 
 ## php
 
