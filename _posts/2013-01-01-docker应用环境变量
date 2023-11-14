@@ -1,0 +1,21 @@
+# docker应用环境变量
+
+说明：以前学习docker时，有一个疑问，是什么机制将外面设置的密码，应用到软件的配置文件的呢？
+
+## 一、将变量设置为环境变量
+
+```shell
+docker run --env VARIABLE=VALUE image:tag
+# 或者在 Dockerfile 文件中
+ENV <key1>=<value1> <key2>=<value2>...
+```
+
+## 二、将环境变量应用到配置文件中
+
+```shell
+# 如果你想将文件中的 $PASSWORD 和 $USERNAME 替换为环境变量中的 PASSWORD 和 USERNAME 的值，并将结果保存到 new.conf 文件中
+envsubst '$PASSWORD $USERNAME' < my.conf > new.conf
+# 替换所有的环境变量，你可以省略 envsubst 命令后面的参数
+envsubst < my.conf > new.conf
+# 当然还可以采用 sed 命令，进行字符字体
+```
