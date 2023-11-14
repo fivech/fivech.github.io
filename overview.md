@@ -16,6 +16,12 @@ key: page-about
 
 ## 工具
 
+- IDE：[PhpStorm](https://www.jetbrains.com/phpstorm/)、[GoLand](https://www.jetbrains.com/go/)
+- 数据库客户端：[Navicat](https://navicat.com.cn/)、[DBeaver](https://dbeaver.io/)
+- 集成环境：[php study](https://www.xp.cn/)
+- Redis客户端：[RedisDesktopManager](https://redis.com/redis-enterprise/redis-insight/)
+- API相关：[Postman](https://www.postman.com/)、[ShowDoc](https://www.showdoc.com.cn/)、[runapi](https://www.showdoc.com.cn/runapi/30291)
+
 ## golang
 
 > 教程/书籍
