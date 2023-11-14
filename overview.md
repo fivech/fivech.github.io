@@ -45,7 +45,8 @@ key: page-about
 ## docker
 > 教程/书籍
 - [docker入门](https://www.runoob.com/docker/docker-tutorial.html)
-
+- [docker应用环境变量](./_posts/2023-01-01-docker应用环境变量.md)
+  
 ## k8s、rancher
 > 教程/书籍
 - [rancher](https://docs.rancher.cn/docs/rancher2.5/quick-start-guide/_index/)
