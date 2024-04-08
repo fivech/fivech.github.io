@@ -49,6 +49,7 @@ key: page-about
 - [bash中常见符号](./_posts/2021-05-20-bash中常见符号.md)
 - [cut、sed、awk](./_posts/2021-05-21-cut、sed、awk.md)
 - [bash常见用法](./_posts/2022-07-21-bash常见用法.md)
+- [将环境变量替换配置文件](./_posts/2024-04-01-将环境变量替换配置文件.md)
 
 ## docker
 > 教程/书籍
