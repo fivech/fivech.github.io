@@ -1,11 +1,11 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       About
-      zh-Hans : &ZH_HANS  总览
+      en      : &EN       Main
+      zh-Hans : &ZH_HANS  主页
       zh      : *ZH_HANS
       # @end locale config
-    url: /overview.html
+    url: /
 
   - titles:
       # @start locale config
