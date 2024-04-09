@@ -21,8 +21,9 @@ key: page-about
 - 集成环境：[php study](https://www.xp.cn/)
 - Redis客户端：[RedisDesktopManager](https://redis.com/redis-enterprise/redis-insight/)
 - API相关：[Postman](https://www.postman.com/)、[ShowDoc](https://www.showdoc.com.cn/)、[runapi](https://www.showdoc.com.cn/runapi/30291)
-- 常规远程：[向日葵](https://sunlogin.oray.com/download?categ=personal)、[ToDesk](https://www.todesk.com/)
+- 常规远程：[向日葵](https://sunlogin.oray.com/download?categ=personal)、[ToDesk](https://www.todesk.com/)、[Xshell](https://www.xshell.com/zh/xshell/)
 - 视频相关：[OBS Studio](https://obsproject.com/)、[VLC media player](https://www.videolan.org/vlc/)
+  
 
 ## golang
 
