@@ -41,7 +41,6 @@ key: page-about
 > 笔记
 - [设计模式demo](./_posts/2022-04-01-设计模式.md)
 
-## mysql
 
 ## linux
 > 教程/书籍
@@ -68,12 +67,7 @@ key: page-about
 > 笔记
 - [CI/CD](./_posts/2022-08-30-CI and CD.md)
 
-## rabbitmq
 
-## redis
-
-
-## 其他教程/书籍
 
 
 
