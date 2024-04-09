@@ -37,6 +37,8 @@ key: page-about
 > 笔记 
 
 ## php
+> 笔记
+- [设计模式demo](./_posts/2022-04-01-设计模式.md)
 
 ## mysql
 
